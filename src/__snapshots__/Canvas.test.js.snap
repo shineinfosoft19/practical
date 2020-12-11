@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Canvas should render banner text correctly with given strings 1`] = `
+<canvas
+  height={128}
+  width={256}
+/>
+`;
+
+exports[`Canvas should render correctly with no props 1`] = `<canvas />`;
